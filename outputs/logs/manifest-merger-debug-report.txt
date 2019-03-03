@@ -1,0 +1,176 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\purpl\AndroidStudioProjects\PakingApp\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\purpl\AndroidStudioProjects\PakingApp\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\purpl\AndroidStudioProjects\PakingApp\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\purpl\AndroidStudioProjects\PakingApp\app\src\main\AndroidManifest.xml:2:1-25:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\368162fb221646fd217a498eba1df0ba\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\95f9abdebc292a8f15eb445af9ca5f54\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\0ba34c09d71d228f101f39a6d17c7286\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\74088bd9840f0aee69d8ec621cb6309f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\af564963c01d11c408ae54994b96cf5d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\752d55a4ea4e3743ba0b9bc2babd4ec8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\9b8f104651c771097f30b6e39d37a624\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\8039769a64936dde0bbfe04c71926436\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\248f3d2dce5d41a8ffadd23e63e94058\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\91d2b1692ecf9c4c0b0d33103c3fe742\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\681e1b6498a7b5eaf184be752bb8ca1e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\d9ce6ca8f04b39b6769a32def7b39625\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\c594572e6fef4a712549cb8cb0b02074\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\213a46b814d71a3ae5ceed5ed82e2eb4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\23e270882ad186bc47d9c13ee1987d56\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\7660a1c6c3589d832e0cf506b009b926\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\1f537d6d6faea75cb930e955779d9a45\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\bdd20f789c655ec48d2fcd8b93da7389\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2de2adb03916e856a1596125a2ec2503\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\c348a0658e5b943fb8e74680402adbf6\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\d0392a93940a751b1c288cbe7937fb65\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\7b4419ba2c8faa8712b9fd413c2408c1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\ac4063d5d8719d14f09549cea952e04f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\e97a16ebab09e969b47e6b66b0370fb9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\45bee0fc2f3c2bf53e0277502cf4b3f1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\0dd92398c5e13b4424447a423657a4df\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\f69c5bacc42302bb8cdf0869fb0361b9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\8d08c2521921bc44da7135c2aa41d7c4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\5f80497675f41232637a33aa8d746f92\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\5d3cba51a8d915bc7c1f08c9a1c521f9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\5373f7c912da9d1f3156fd644affed28\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\purpl\AndroidStudioProjects\PakingApp\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\purpl\AndroidStudioProjects\PakingApp\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\purpl\AndroidStudioProjects\PakingApp\app\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from C:\Users\purpl\AndroidStudioProjects\PakingApp\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from C:\Users\purpl\AndroidStudioProjects\PakingApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\purpl\AndroidStudioProjects\PakingApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\purpl\AndroidStudioProjects\PakingApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\purpl\AndroidStudioProjects\PakingApp\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Users\purpl\AndroidStudioProjects\PakingApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\purpl\AndroidStudioProjects\PakingApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\purpl\AndroidStudioProjects\PakingApp\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Users\purpl\AndroidStudioProjects\PakingApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\purpl\AndroidStudioProjects\PakingApp\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\purpl\AndroidStudioProjects\PakingApp\app\src\main\AndroidManifest.xml:5:5-23:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\368162fb221646fd217a498eba1df0ba\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\368162fb221646fd217a498eba1df0ba\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\0ba34c09d71d228f101f39a6d17c7286\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\0ba34c09d71d228f101f39a6d17c7286\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2de2adb03916e856a1596125a2ec2503\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2de2adb03916e856a1596125a2ec2503\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\c348a0658e5b943fb8e74680402adbf6\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\c348a0658e5b943fb8e74680402adbf6\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2de2adb03916e856a1596125a2ec2503\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\purpl\AndroidStudioProjects\PakingApp\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\purpl\AndroidStudioProjects\PakingApp\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\purpl\AndroidStudioProjects\PakingApp\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\purpl\AndroidStudioProjects\PakingApp\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\purpl\AndroidStudioProjects\PakingApp\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\purpl\AndroidStudioProjects\PakingApp\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.pakingapp.TabActivity2
+ADDED from C:\Users\purpl\AndroidStudioProjects\PakingApp\app\src\main\AndroidManifest.xml:12:9-15:68
+	android:label
+		ADDED from C:\Users\purpl\AndroidStudioProjects\PakingApp\app\src\main\AndroidManifest.xml:14:13-56
+	android:theme
+		ADDED from C:\Users\purpl\AndroidStudioProjects\PakingApp\app\src\main\AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from C:\Users\purpl\AndroidStudioProjects\PakingApp\app\src\main\AndroidManifest.xml:13:13-41
+activity#com.example.pakingapp.MainActivity
+ADDED from C:\Users\purpl\AndroidStudioProjects\PakingApp\app\src\main\AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from C:\Users\purpl\AndroidStudioProjects\PakingApp\app\src\main\AndroidManifest.xml:16:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\purpl\AndroidStudioProjects\PakingApp\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\purpl\AndroidStudioProjects\PakingApp\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from C:\Users\purpl\AndroidStudioProjects\PakingApp\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\purpl\AndroidStudioProjects\PakingApp\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from C:\Users\purpl\AndroidStudioProjects\PakingApp\app\src\main\AndroidManifest.xml:20:27-74
+uses-sdk
+INJECTED from C:\Users\purpl\AndroidStudioProjects\PakingApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\purpl\AndroidStudioProjects\PakingApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\purpl\AndroidStudioProjects\PakingApp\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\368162fb221646fd217a498eba1df0ba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\368162fb221646fd217a498eba1df0ba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\95f9abdebc292a8f15eb445af9ca5f54\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\95f9abdebc292a8f15eb445af9ca5f54\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\0ba34c09d71d228f101f39a6d17c7286\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\0ba34c09d71d228f101f39a6d17c7286\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\74088bd9840f0aee69d8ec621cb6309f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\74088bd9840f0aee69d8ec621cb6309f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\af564963c01d11c408ae54994b96cf5d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\af564963c01d11c408ae54994b96cf5d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\752d55a4ea4e3743ba0b9bc2babd4ec8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\752d55a4ea4e3743ba0b9bc2babd4ec8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\9b8f104651c771097f30b6e39d37a624\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\9b8f104651c771097f30b6e39d37a624\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\8039769a64936dde0bbfe04c71926436\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\8039769a64936dde0bbfe04c71926436\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\248f3d2dce5d41a8ffadd23e63e94058\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\248f3d2dce5d41a8ffadd23e63e94058\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\91d2b1692ecf9c4c0b0d33103c3fe742\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\91d2b1692ecf9c4c0b0d33103c3fe742\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\681e1b6498a7b5eaf184be752bb8ca1e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\681e1b6498a7b5eaf184be752bb8ca1e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\d9ce6ca8f04b39b6769a32def7b39625\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\d9ce6ca8f04b39b6769a32def7b39625\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\c594572e6fef4a712549cb8cb0b02074\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\c594572e6fef4a712549cb8cb0b02074\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\213a46b814d71a3ae5ceed5ed82e2eb4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\213a46b814d71a3ae5ceed5ed82e2eb4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\23e270882ad186bc47d9c13ee1987d56\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\23e270882ad186bc47d9c13ee1987d56\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\7660a1c6c3589d832e0cf506b009b926\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\7660a1c6c3589d832e0cf506b009b926\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\1f537d6d6faea75cb930e955779d9a45\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\1f537d6d6faea75cb930e955779d9a45\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\bdd20f789c655ec48d2fcd8b93da7389\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\bdd20f789c655ec48d2fcd8b93da7389\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2de2adb03916e856a1596125a2ec2503\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2de2adb03916e856a1596125a2ec2503\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\c348a0658e5b943fb8e74680402adbf6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\c348a0658e5b943fb8e74680402adbf6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\d0392a93940a751b1c288cbe7937fb65\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\d0392a93940a751b1c288cbe7937fb65\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\7b4419ba2c8faa8712b9fd413c2408c1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\7b4419ba2c8faa8712b9fd413c2408c1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\ac4063d5d8719d14f09549cea952e04f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\ac4063d5d8719d14f09549cea952e04f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\e97a16ebab09e969b47e6b66b0370fb9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\e97a16ebab09e969b47e6b66b0370fb9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\45bee0fc2f3c2bf53e0277502cf4b3f1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\45bee0fc2f3c2bf53e0277502cf4b3f1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\0dd92398c5e13b4424447a423657a4df\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\0dd92398c5e13b4424447a423657a4df\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\f69c5bacc42302bb8cdf0869fb0361b9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\f69c5bacc42302bb8cdf0869fb0361b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\8d08c2521921bc44da7135c2aa41d7c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\8d08c2521921bc44da7135c2aa41d7c4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\5f80497675f41232637a33aa8d746f92\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\5f80497675f41232637a33aa8d746f92\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\5d3cba51a8d915bc7c1f08c9a1c521f9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\5d3cba51a8d915bc7c1f08c9a1c521f9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\5373f7c912da9d1f3156fd644affed28\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\purpl\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\5373f7c912da9d1f3156fd644affed28\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\purpl\AndroidStudioProjects\PakingApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\purpl\AndroidStudioProjects\PakingApp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\purpl\AndroidStudioProjects\PakingApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\purpl\AndroidStudioProjects\PakingApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\purpl\AndroidStudioProjects\PakingApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\purpl\AndroidStudioProjects\PakingApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\purpl\AndroidStudioProjects\PakingApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\purpl\AndroidStudioProjects\PakingApp\app\src\main\AndroidManifest.xml
