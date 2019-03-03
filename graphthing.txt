@@ -1,0 +1,10 @@
+<com.jjoe64.graphview.GraphView
+        android:id="@+id/barchart"
+        android:layout_width="match_parent"
+        android:layout_height="350dip"
+        android:layout_marginTop="16dp"
+        android:title="Percent of Spaces Free by Hour"
+        app:layout_constraintTop_toTopOf="parent"
+        app:seriesColor="#cc0000"
+        app:seriesTitle="Percentage Free"
+        tools:layout_editor_absoluteX="16dp" />
